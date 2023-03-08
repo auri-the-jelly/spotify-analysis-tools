@@ -1,0 +1,8 @@
+{
+    "danceability": 0.68,
+    "energy": 0.634,
+    "valence": 0.478,
+    "acousticness": 0.238,
+    "instrumentalness": 0.021,
+    "speechiness": 0.088
+}

@@ -1,0 +1,35 @@
+{
+    "time_signature": {
+        "4": 649,
+        "3": 24,
+        "5": 8,
+        "1": 1
+    },
+    "key": {
+        "C# major": 55,
+        "C# minor": 31,
+        "F# minor": 35,
+        "F minor": 32,
+        "D major": 44,
+        "G# major": 39,
+        "A# minor": 19,
+        "A minor": 24,
+        "B major": 29,
+        "A# major": 25,
+        "G major": 41,
+        "B minor": 39,
+        "E minor": 28,
+        "C major": 56,
+        "E major": 26,
+        "C minor": 24,
+        "F major": 30,
+        "A major": 28,
+        "G minor": 19,
+        "F# major": 21,
+        "D# major": 12,
+        "G# minor": 12,
+        "D# minor": 6,
+        "D minor": 7
+    },
+    "tempo": 119.58762023460433
+}

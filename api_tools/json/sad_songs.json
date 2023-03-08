@@ -1,0 +1,882 @@
+{
+    "Cigarette Ahegao": {
+        "instrumentalness": 0.0234,
+        "valence": 0.165
+    },
+    "Tu Aake Dekhle": {
+        "instrumentalness": 0.00452,
+        "valence": 0.192
+    },
+    "Want You": {
+        "instrumentalness": 0.00889,
+        "valence": 0.16
+    },
+    "a million pretty pieces": {
+        "instrumentalness": 7.06e-05,
+        "valence": 0.279
+    },
+    "Paper Thin": {
+        "instrumentalness": 1.64e-05,
+        "valence": 0.136
+    },
+    "In My Heart": {
+        "instrumentalness": 4.04e-05,
+        "valence": 0.205
+    },
+    "Nalu": {
+        "instrumentalness": 0.0365,
+        "valence": 0.234
+    },
+    "Cascade": {
+        "instrumentalness": 0.172,
+        "valence": 0.0853
+    },
+    "Castle in the Sky": {
+        "instrumentalness": 0.00048,
+        "valence": 0.119
+    },
+    "Heartbeat": {
+        "instrumentalness": 1.45e-06,
+        "valence": 0.224
+    },
+    "Oasis": {
+        "instrumentalness": 0.00467,
+        "valence": 0.192
+    },
+    "about you": {
+        "instrumentalness": 1.32e-06,
+        "valence": 0.249
+    },
+    "Amnesia (with Nightly)": {
+        "instrumentalness": 0.547,
+        "valence": 0.286
+    },
+    "Twenty Something": {
+        "instrumentalness": 9.67e-05,
+        "valence": 0.11
+    },
+    "Better With You": {
+        "instrumentalness": 6.92e-05,
+        "valence": 0.25
+    },
+    "Like a Prayer": {
+        "instrumentalness": 2.11e-05,
+        "valence": 0.257
+    },
+    "Free Fall": {
+        "instrumentalness": 6.35e-05,
+        "valence": 0.228
+    },
+    "The Batman - Something in the Way - Cover Version": {
+        "instrumentalness": 0.182,
+        "valence": 0.0983
+    },
+    "Roches blanches": {
+        "instrumentalness": 0.000189,
+        "valence": 0.184
+    },
+    "Close to Me": {
+        "instrumentalness": 0.556,
+        "valence": 0.0677
+    },
+    "One Day": {
+        "instrumentalness": 1.28e-05,
+        "valence": 0.174
+    },
+    "Mount Fuji": {
+        "instrumentalness": 0.222,
+        "valence": 0.273
+    },
+    "Cold Feet": {
+        "instrumentalness": 0.000851,
+        "valence": 0.244
+    },
+    "Lean On (feat. M\u00d8 & DJ Snake)": {
+        "instrumentalness": 0.00123,
+        "valence": 0.274
+    },
+    "Sweet Dreams - Pretty Pink Remix": {
+        "instrumentalness": 0.0751,
+        "valence": 0.124
+    },
+    "Love Me Again": {
+        "instrumentalness": 0.000596,
+        "valence": 0.213
+    },
+    "All These Roads (feat. Zella Day and Sam Martin)": {
+        "instrumentalness": 1.04e-05,
+        "valence": 0.246
+    },
+    "Here Right Now": {
+        "instrumentalness": 0.00831,
+        "valence": 0.287
+    },
+    "Find A Way (Kayliox Remix) [feat. Gary Pine & Shayon TheHitman]": {
+        "instrumentalness": 0.0452,
+        "valence": 0.295
+    },
+    "Starlight (Could You Be Mine) - Otto Knows Remix": {
+        "instrumentalness": 0.208,
+        "valence": 0.201
+    },
+    "Stockholm Skies (feat. Tom Taped & Alex Aris)": {
+        "instrumentalness": 0.00558,
+        "valence": 0.145
+    },
+    "Anywhere For You - Extended Mix": {
+        "instrumentalness": 2.38e-05,
+        "valence": 0.215
+    },
+    "I Won't Let You Walk Away (feat. Madison Beer) - Lost Kings Remix": {
+        "instrumentalness": 0.00146,
+        "valence": 0.297
+    },
+    "This Is What It Feels Like": {
+        "instrumentalness": 2.77e-06,
+        "valence": 0.145
+    },
+    "Reload - Instrumental Mix": {
+        "instrumentalness": 0.591,
+        "valence": 0.119
+    },
+    "Break Through The Silence - Radio Edit": {
+        "instrumentalness": 0.00119,
+        "valence": 0.153
+    },
+    "Years Of War": {
+        "instrumentalness": 0.00179,
+        "valence": 0.174
+    },
+    "Don't Leave - Gryffin Remix": {
+        "instrumentalness": 0.000395,
+        "valence": 0.277
+    },
+    "Final Song": {
+        "instrumentalness": 7.95e-05,
+        "valence": 0.245
+    },
+    "Where Are You Now": {
+        "instrumentalness": 0.000411,
+        "valence": 0.262
+    },
+    "Never Forget You": {
+        "instrumentalness": 9.86e-06,
+        "valence": 0.276
+    },
+    "Verge": {
+        "instrumentalness": 1.17e-06,
+        "valence": 0.206
+    },
+    "Us": {
+        "instrumentalness": 3.66e-05,
+        "valence": 0.193
+    },
+    "Dear Boy": {
+        "instrumentalness": 0.0987,
+        "valence": 0.252
+    },
+    "Hope There's Someone": {
+        "instrumentalness": 0.00422,
+        "valence": 0.0798
+    },
+    "Firestone - Live Acoustic Version": {
+        "instrumentalness": 0.000637,
+        "valence": 0.293
+    },
+    "Firestone - Fireworks Version": {
+        "instrumentalness": 1.41e-05,
+        "valence": 0.267
+    },
+    "I'm in Love (feat. James Vincent McMorrow)": {
+        "instrumentalness": 0.00671,
+        "valence": 0.274
+    },
+    "How Would I Know": {
+        "instrumentalness": 0.00233,
+        "valence": 0.153
+    },
+    "Follow": {
+        "instrumentalness": 6.98e-06,
+        "valence": 0.239
+    },
+    "Hurting": {
+        "instrumentalness": 1.22e-06,
+        "valence": 0.292
+    },
+    "Brighter Days": {
+        "instrumentalness": 4.81e-05,
+        "valence": 0.256
+    },
+    "I'm Not Alone - 2019 Edit": {
+        "instrumentalness": 0.48,
+        "valence": 0.212
+    },
+    "Flashback": {
+        "instrumentalness": 0.000991,
+        "valence": 0.158
+    },
+    "Sundown (feat. Wizkid)": {
+        "instrumentalness": 1.78e-06,
+        "valence": 0.273
+    },
+    "Make That Money Girl": {
+        "instrumentalness": 0.000895,
+        "valence": 0.114
+    },
+    "Lighthouse": {
+        "instrumentalness": 1.04e-05,
+        "valence": 0.245
+    },
+    "We Are Here Now": {
+        "instrumentalness": 5.13e-06,
+        "valence": 0.217
+    },
+    "Whompin - Original Mix": {
+        "instrumentalness": 0.1,
+        "valence": 0.152
+    },
+    "Train": {
+        "instrumentalness": 0.0947,
+        "valence": 0.13
+    },
+    "Mounam Chorum Neram": {
+        "instrumentalness": 0.028,
+        "valence": 0.174
+    },
+    "Ee Mazha Megham": {
+        "instrumentalness": 0.0098,
+        "valence": 0.192
+    },
+    "Sneham Cherum Neram": {
+        "instrumentalness": 0.000234,
+        "valence": 0.282
+    },
+    "Tears For Later": {
+        "instrumentalness": 0.001,
+        "valence": 0.161
+    },
+    "Popular Monster - NGHTMRE & Galantis Remix": {
+        "instrumentalness": 0.00314,
+        "valence": 0.248
+    },
+    "Never Felt A Love Like This (with Hook N Sling) [feat. Dotan]": {
+        "instrumentalness": 0.00359,
+        "valence": 0.137
+    },
+    "Salvage (Up All Night) (feat. Poo Bear)": {
+        "instrumentalness": 0.000179,
+        "valence": 0.262
+    },
+    "Make Me Feel the Night (feat. Tyler James Bellinger)": {
+        "instrumentalness": 0.000285,
+        "valence": 0.162
+    },
+    "4 Life (feat. Graham Candy)": {
+        "instrumentalness": 1.48e-06,
+        "valence": 0.293
+    },
+    "Moonlit Sky (with the Void Pacific Choir)": {
+        "instrumentalness": 0.00164,
+        "valence": 0.0714
+    },
+    "Photograph": {
+        "instrumentalness": 0.000464,
+        "valence": 0.201
+    },
+    "The Joker And The Queen": {
+        "instrumentalness": 5.24e-05,
+        "valence": 0.289
+    },
+    "10,000 Tears (feat. Ed Sheeran)": {
+        "instrumentalness": 0.00327,
+        "valence": 0.192
+    },
+    "Kiss Me": {
+        "instrumentalness": 0.00469,
+        "valence": 0.182
+    },
+    "All of the Stars": {
+        "instrumentalness": 0.000182,
+        "valence": 0.287
+    },
+    "Love Tonight (David Guetta Remix Edit)": {
+        "instrumentalness": 0.357,
+        "valence": 0.0348
+    },
+    "The Alphabeat": {
+        "instrumentalness": 0.161,
+        "valence": 0.156
+    },
+    "I Can Only Imagine (feat. Chris Brown & Lil Wayne)": {
+        "instrumentalness": 1.1e-06,
+        "valence": 0.264
+    },
+    "The Death of EDM (feat. Beardyman)": {
+        "instrumentalness": 0.0241,
+        "valence": 0.0392
+    },
+    "Just a Little More Love (feat. Chris Willis) - Jack Back 2018 Remix": {
+        "instrumentalness": 0.000141,
+        "valence": 0.0972
+    },
+    "Helicopter - Original Edit": {
+        "instrumentalness": 0.291,
+        "valence": 0.0749
+    },
+    "Ocean (feat. Khalid)": {
+        "instrumentalness": 9.58e-05,
+        "valence": 0.221
+    },
+    "Home (feat. Bonn)": {
+        "instrumentalness": 4.07e-06,
+        "valence": 0.236
+    },
+    "Forever": {
+        "instrumentalness": 0.0616,
+        "valence": 0.22
+    },
+    "Fire (with Elderbrook)": {
+        "instrumentalness": 0.433,
+        "valence": 0.0743
+    },
+    "Pizza": {
+        "instrumentalness": 0.589,
+        "valence": 0.0378
+    },
+    "Gold Skies": {
+        "instrumentalness": 0.0719,
+        "valence": 0.209
+    },
+    "Animals - Radio Edit": {
+        "instrumentalness": 0.445,
+        "valence": 0.0381
+    },
+    "Sun Is Never Going Down (feat. Dawn Golden)": {
+        "instrumentalness": 8.05e-05,
+        "valence": 0.266
+    },
+    "Access": {
+        "instrumentalness": 0.145,
+        "valence": 0.174
+    },
+    "Welcome": {
+        "instrumentalness": 0.411,
+        "valence": 0.0422
+    },
+    "Together": {
+        "instrumentalness": 2.73e-05,
+        "valence": 0.196
+    },
+    "Under Control (feat. Hurts) - Extended Mix": {
+        "instrumentalness": 0.0563,
+        "valence": 0.148
+    },
+    "Pressure - Alesso Radio Edit": {
+        "instrumentalness": 0.528,
+        "valence": 0.269
+    },
+    "City Of Dreams - Radio Edit": {
+        "instrumentalness": 0.00789,
+        "valence": 0.163
+    },
+    "TIME - Alesso & Deniz Koyu Remix": {
+        "instrumentalness": 0.401,
+        "valence": 0.279
+    },
+    "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus": {
+        "instrumentalness": 0.00186,
+        "valence": 0.193
+    },
+    "City Of Dreams - Original Mix": {
+        "instrumentalness": 0.0822,
+        "valence": 0.146
+    },
+    "Chasing Stars (feat. James Bay) [VIP]": {
+        "instrumentalness": 0.00758,
+        "valence": 0.233
+    },
+    "If I Lose Myself - Alesso vs OneRepublic": {
+        "instrumentalness": 3.75e-06,
+        "valence": 0.16
+    },
+    "Break Free": {
+        "instrumentalness": 4.35e-05,
+        "valence": 0.284
+    },
+    "Snowflakes - Radio Edit": {
+        "instrumentalness": 0.477,
+        "valence": 0.0377
+    },
+    "Warm Minds - Radio Mix": {
+        "instrumentalness": 0.286,
+        "valence": 0.205
+    },
+    "Changes - Robin Schulz Remix Radio Edit": {
+        "instrumentalness": 0.378,
+        "valence": 0.194
+    },
+    "Coloratura": {
+        "instrumentalness": 0.155,
+        "valence": 0.0736
+    },
+    "Sunrise": {
+        "instrumentalness": 0.54,
+        "valence": 0.0341
+    },
+    "Everglow - Live from Spotify London": {
+        "instrumentalness": 0.000479,
+        "valence": 0.125
+    },
+    "A Head Full of Dreams": {
+        "instrumentalness": 0.0167,
+        "valence": 0.0772
+    },
+    "God Put a Smile upon Your Face": {
+        "instrumentalness": 7.14e-05,
+        "valence": 0.252
+    },
+    "The Scientist": {
+        "instrumentalness": 1.46e-05,
+        "valence": 0.213
+    },
+    "Fix You": {
+        "instrumentalness": 0.00196,
+        "valence": 0.124
+    },
+    "Christmas Lights - Live from Spotify London": {
+        "instrumentalness": 0.000396,
+        "valence": 0.224
+    },
+    "A Whisper": {
+        "instrumentalness": 0.341,
+        "valence": 0.26
+    },
+    "Princess of China": {
+        "instrumentalness": 0.015,
+        "valence": 0.237
+    },
+    "Fix You - Live in Buenos Aires": {
+        "instrumentalness": 0.00386,
+        "valence": 0.201
+    },
+    "Viva La Vida - Live in Buenos Aires": {
+        "instrumentalness": 1.29e-06,
+        "valence": 0.219
+    },
+    "Champion Of The World": {
+        "instrumentalness": 0.0102,
+        "valence": 0.168
+    },
+    "Envelope": {
+        "instrumentalness": 0.274,
+        "valence": 0.26
+    },
+    "She's Out of My Life - Single Version": {
+        "instrumentalness": 0.000212,
+        "valence": 0.101
+    },
+    "Heal the World": {
+        "instrumentalness": 1.8e-06,
+        "valence": 0.101
+    },
+    "Gone Too Soon": {
+        "instrumentalness": 0.00271,
+        "valence": 0.118
+    },
+    "Earth Song": {
+        "instrumentalness": 0.000117,
+        "valence": 0.145
+    },
+    "You Are Not Alone": {
+        "instrumentalness": 7.73e-05,
+        "valence": 0.258
+    },
+    "How Do You Feel Right Now": {
+        "instrumentalness": 0.17,
+        "valence": 0.0397
+    },
+    "Can't Hold Us Down": {
+        "instrumentalness": 0.00405,
+        "valence": 0.0376
+    },
+    "Barricade - Bonus Track": {
+        "instrumentalness": 0.0366,
+        "valence": 0.0686
+    },
+    "All We Know": {
+        "instrumentalness": 0.00272,
+        "valence": 0.296
+    },
+    "Kanye": {
+        "instrumentalness": 1.56e-06,
+        "valence": 0.122
+    },
+    "Save Yourself": {
+        "instrumentalness": 0.00645,
+        "valence": 0.103
+    },
+    "Inside Out": {
+        "instrumentalness": 1.49e-05,
+        "valence": 0.141
+    },
+    "Waterbed (feat. Waterbed)": {
+        "instrumentalness": 0.00333,
+        "valence": 0.169
+    },
+    "It Won't Kill Ya": {
+        "instrumentalness": 0.000169,
+        "valence": 0.12
+    },
+    "Paris": {
+        "instrumentalness": 1.66e-06,
+        "valence": 0.219
+    },
+    "Last Day Alive": {
+        "instrumentalness": 4.15e-05,
+        "valence": 0.24
+    },
+    "Steel": {
+        "instrumentalness": 2.65e-06,
+        "valence": 0.132
+    },
+    "Louder, Harder, Better": {
+        "instrumentalness": 3.87e-06,
+        "valence": 0.245
+    },
+    "We Could Go Back": {
+        "instrumentalness": 0.00141,
+        "valence": 0.288
+    },
+    "Beautiful Life - Erick Morillo Remix": {
+        "instrumentalness": 0.109,
+        "valence": 0.177
+    },
+    "Beautiful Life - Cryptic Extended Remix": {
+        "instrumentalness": 0.225,
+        "valence": 0.133
+    },
+    "Beautiful Life - Cryptic Remix": {
+        "instrumentalness": 0.234,
+        "valence": 0.093
+    },
+    "So Much Better - Lost Frequencies Remix": {
+        "instrumentalness": 8.58e-06,
+        "valence": 0.224
+    },
+    "What It Feels Like - Ben Maxwell Remix": {
+        "instrumentalness": 0.000968,
+        "valence": 0.254
+    },
+    "Don't Hold Me - Acoustic": {
+        "instrumentalness": 0.00158,
+        "valence": 0.126
+    },
+    "Don't Hold Me": {
+        "instrumentalness": 0.0334,
+        "valence": 0.111
+    },
+    "MAYDAY": {
+        "instrumentalness": 0.00567,
+        "valence": 0.132
+    },
+    "Never Be Alone": {
+        "instrumentalness": 0.00614,
+        "valence": 0.261
+    },
+    "Addicted To A Memory": {
+        "instrumentalness": 0.0242,
+        "valence": 0.0659
+    },
+    "Let Me Love You - Zedd Remix": {
+        "instrumentalness": 0.00815,
+        "valence": 0.217
+    },
+    "The Anthem - Original Mix": {
+        "instrumentalness": 0.448,
+        "valence": 0.147
+    },
+    "Dovregubben - Original Mix": {
+        "instrumentalness": 0.523,
+        "valence": 0.176
+    },
+    "The Anthem - DJ Hero Re-Rub": {
+        "instrumentalness": 0.214,
+        "valence": 0.0822
+    },
+    "Done With Love": {
+        "instrumentalness": 0.000138,
+        "valence": 0.127
+    },
+    "Human": {
+        "instrumentalness": 0.283,
+        "valence": 0.242
+    },
+    "Zedd Mega Nonstop Mix": {
+        "instrumentalness": 1.55e-05,
+        "valence": 0.218
+    },
+    "Alive": {
+        "instrumentalness": 0.0171,
+        "valence": 0.0609
+    },
+    "Jubel - Radio Edit": {
+        "instrumentalness": 0.0569,
+        "valence": 0.0951
+    },
+    "Losing U": {
+        "instrumentalness": 9.45e-05,
+        "valence": 0.224
+    },
+    "Lush Life - Alex Adair Remix": {
+        "instrumentalness": 6.31e-05,
+        "valence": 0.243
+    },
+    "Love Myself - KREAM Remix": {
+        "instrumentalness": 1.26e-05,
+        "valence": 0.274
+    },
+    "Secrets - Radio Edit": {
+        "instrumentalness": 0.00761,
+        "valence": 0.185
+    },
+    "Boys In The Street": {
+        "instrumentalness": 1.36e-05,
+        "valence": 0.258
+    },
+    "Turn on the Lights": {
+        "instrumentalness": 0.000781,
+        "valence": 0.246
+    },
+    "Daughter Of A Rifleman": {
+        "instrumentalness": 0.0118,
+        "valence": 0.232
+    },
+    "Gone Are The Days (feat. James Gillespie)": {
+        "instrumentalness": 1.06e-06,
+        "valence": 0.281
+    },
+    "Darkness": {
+        "instrumentalness": 7.55e-06,
+        "valence": 0.195
+    },
+    "We Write The Story": {
+        "instrumentalness": 0.238,
+        "valence": 0.142
+    },
+    "Drugs & The Internet": {
+        "instrumentalness": 8.65e-05,
+        "valence": 0.245
+    },
+    "Radioactive": {
+        "instrumentalness": 0.000108,
+        "valence": 0.236
+    },
+    "Music Around The World - Avicii Remix": {
+        "instrumentalness": 0.213,
+        "valence": 0.166
+    },
+    "You Used to Hold Me - Avicii Remember Remix": {
+        "instrumentalness": 0.42,
+        "valence": 0.159
+    },
+    "Sweet Dreams - Avicii Swede Dreams Mix": {
+        "instrumentalness": 0.33,
+        "valence": 0.148
+    },
+    "Beautiful Heartbeat (feat. Frida Sundemo & Avicii) - Avicii Remix": {
+        "instrumentalness": 4.41e-05,
+        "valence": 0.197
+    },
+    "Somewhere - Avicii Remix": {
+        "instrumentalness": 0.504,
+        "valence": 0.0454
+    },
+    "One": {
+        "instrumentalness": 1.2e-05,
+        "valence": 0.215
+    },
+    "Sing Me to Sleep": {
+        "instrumentalness": 1.52e-06,
+        "valence": 0.166
+    },
+    "A Sky Full of Stars": {
+        "instrumentalness": 0.00197,
+        "valence": 0.162
+    },
+    "Silence - Ti\u00ebsto's Big Room Remix": {
+        "instrumentalness": 3.63e-06,
+        "valence": 0.0994
+    },
+    "Calling (Lose My Mind) - Radio Edit": {
+        "instrumentalness": 0.000138,
+        "valence": 0.147
+    },
+    "The Business": {
+        "instrumentalness": 0.0192,
+        "valence": 0.235
+    },
+    "Determination": {
+        "instrumentalness": 0.403,
+        "valence": 0
+    },
+    "Danger Mystery": {
+        "instrumentalness": 0.597,
+        "valence": 0
+    },
+    "Waterfall": {
+        "instrumentalness": 0.275,
+        "valence": 0.124
+    },
+    "Barricade - Radio Edit": {
+        "instrumentalness": 0.0564,
+        "valence": 0.0751
+    },
+    "Leave The World Behind - Radio Edit": {
+        "instrumentalness": 0.00196,
+        "valence": 0.277
+    },
+    "Dreamer - Matisse & Sadko Remix": {
+        "instrumentalness": 0.000356,
+        "valence": 0.249
+    },
+    "See You Again (feat. Charlie Puth)": {
+        "instrumentalness": 1.03e-06,
+        "valence": 0.283
+    },
+    "Monody - Radio Edit": {
+        "instrumentalness": 0.000416,
+        "valence": 0.214
+    },
+    "See You Again - From Fast & Furious 7": {
+        "instrumentalness": 3.16e-06,
+        "valence": 0.219
+    },
+    "Alone": {
+        "instrumentalness": 0.000478,
+        "valence": 0.183
+    },
+    "Childhood - Immortal Version": {
+        "instrumentalness": 9.4e-05,
+        "valence": 0.156
+    },
+    "Is It Scary / Threatened (feat. 50 Cent) - Immortal Version": {
+        "instrumentalness": 0.000141,
+        "valence": 0.224
+    },
+    "One (Your Name)": {
+        "instrumentalness": 0.103,
+        "valence": 0.211
+    },
+    "So Much Better - Avicii Remix": {
+        "instrumentalness": 0.331,
+        "valence": 0.241
+    },
+    "Long Road To Hell": {
+        "instrumentalness": 0.147,
+        "valence": 0.227
+    },
+    "Always On The Run": {
+        "instrumentalness": 0.02,
+        "valence": 0.262
+    },
+    "UMF (Ultra Music Festival Anthem)": {
+        "instrumentalness": 0.404,
+        "valence": 0.0507
+    },
+    "Drowning - Avicii Remix": {
+        "instrumentalness": 0.00232,
+        "valence": 0.281
+    },
+    "Beautiful Heartbeat - Avicii Remix": {
+        "instrumentalness": 4.19e-05,
+        "valence": 0.202
+    },
+    "I Feel Love (feat. Wynter Gordon) - Avicii Forgotten Remix": {
+        "instrumentalness": 0.367,
+        "valence": 0.0662
+    },
+    "You're Gonna Love Again": {
+        "instrumentalness": 0.0172,
+        "valence": 0.275
+    },
+    "Seek Bromance - Avicii Vocal Extended": {
+        "instrumentalness": 0.00469,
+        "valence": 0.0373
+    },
+    "I Could Be The One [Avicii vs Nicky Romero] - John Christian Remix": {
+        "instrumentalness": 0.532,
+        "valence": 0.0372
+    },
+    "Last Dance - Avicii Instrumental Radio Edit": {
+        "instrumentalness": 0.286,
+        "valence": 0.158
+    },
+    "Fades Away - Tribute Concert Version": {
+        "instrumentalness": 1.45e-05,
+        "valence": 0.165
+    },
+    "My Feelings For You - Original Mix": {
+        "instrumentalness": 0.133,
+        "valence": 0.0507
+    },
+    "In The Air - Avicii Remix": {
+        "instrumentalness": 0.146,
+        "valence": 0.159
+    },
+    "Heaven - David Guetta & MORTEN Remix": {
+        "instrumentalness": 0.0198,
+        "valence": 0.204
+    },
+    "X You - Radio Edit": {
+        "instrumentalness": 0.075,
+        "valence": 0.129
+    },
+    "Lonely Together (feat. Rita Ora)": {
+        "instrumentalness": 2.12e-05,
+        "valence": 0.272
+    },
+    "Hey Brother - Extended Version": {
+        "instrumentalness": 0.000128,
+        "valence": 0.205
+    },
+    "Heaven - David Guetta & MORTEN Remix / Extended Version": {
+        "instrumentalness": 0.0682,
+        "valence": 0.0836
+    },
+    "X You - Original Version": {
+        "instrumentalness": 0.0836,
+        "valence": 0.199
+    },
+    "My Feelings For You - Digital LAB Remix": {
+        "instrumentalness": 0.0576,
+        "valence": 0.227
+    },
+    "So Excited - Sebastien Drums & Eric G Work Machine Remix": {
+        "instrumentalness": 0.297,
+        "valence": 0.241
+    },
+    "I Could Be The One [Avicii vs Nicky Romero] - DubVision Remix": {
+        "instrumentalness": 0.000972,
+        "valence": 0.218
+    },
+    "Snus - Original Mix": {
+        "instrumentalness": 0.454,
+        "valence": 0.243
+    },
+    "Don't Hold Back - John Dahlb\u00e4ck & Avicii Extended Remix": {
+        "instrumentalness": 0.396,
+        "valence": 0.226
+    },
+    "Fade Into Darkness - MYNC Stadium Remix": {
+        "instrumentalness": 0.0052,
+        "valence": 0.29
+    },
+    "Fade Into Darkness - Albin Myers Remix": {
+        "instrumentalness": 0.0287,
+        "valence": 0.214
+    },
+    "Hey Brother - Avicii By Avicii": {
+        "instrumentalness": 0.0888,
+        "valence": 0.265
+    }
+}
