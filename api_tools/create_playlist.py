@@ -1,25 +1,22 @@
 import spotipy
 import json
+import os
 from spotipy.oauth2 import SpotifyOAuth
 
 scope = "user-library-read,playlist-modify-private,playlist-modify-public,user-library-modify"
-playlust_id = "3fb9C4dIK8ccKdq97onxhc"
+playlust_id = "6Zx9R6lIwxcFrG7LvkbCOO"
 sp = spotipy.Spotify(
     auth_manager=SpotifyOAuth(
-        client_id="Client ID",
-        client_secret="Client Secret",
-        redirect_uri="https://localhost:8080",
         scope=scope,
     )
 )
 
 song_ids = []
 
-with open("json/instrumentall_songs.json", "r") as f:
+with open("json/sad_songs.json", "r") as f:
     data = json.load(f)
     genres = {
-        k: v
-        for k, v in sorted(data.items(), key=lambda item: item[1]["instrumentalness"])
+        k: v for k, v in sorted(data.items(), key=lambda item: item[1]["valence"])
     }
     i = 0
     with open("json/song_list.json", "r") as songs:

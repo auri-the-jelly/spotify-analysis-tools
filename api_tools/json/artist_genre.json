@@ -1,4 +1,171 @@
 {
+    "Rammstein": [
+        "alternative metal",
+        "german metal",
+        "industrial",
+        "industrial metal",
+        "industrial rock",
+        "neue deutsche harte"
+    ],
+    "Penguin Cafe Orchestra": [
+        "art rock",
+        "bow pop",
+        "compositional ambient"
+    ],
+    "Old Gods of Asgard": [],
+    "Pink Floyd": [
+        "album rock",
+        "art rock",
+        "classic rock",
+        "progressive rock",
+        "psychedelic rock",
+        "rock",
+        "symphonic rock"
+    ],
+    "Marshmello": [
+        "brostep",
+        "dance pop",
+        "edm",
+        "pop",
+        "pop dance",
+        "progressive electro house"
+    ],
+    "Khalid": [
+        "pop",
+        "pop r&b"
+    ],
+    "ILLENIUM": [
+        "edm",
+        "melodic dubstep",
+        "pop",
+        "pop dance",
+        "tropical house"
+    ],
+    "Taylor Swift": [
+        "pop"
+    ],
+    "Dillon Francis": [
+        "brostep",
+        "dance pop",
+        "edm",
+        "electro house",
+        "electronic trap",
+        "electropop",
+        "house",
+        "moombahton",
+        "pop",
+        "pop dance",
+        "slap house",
+        "tropical house"
+    ],
+    "EVAN GIIA": [
+        "nyc pop",
+        "vapor twitch"
+    ],
+    "Nina Nesbitt": [
+        "alt z",
+        "dance pop",
+        "electropop",
+        "neo-singer-songwriter",
+        "pop",
+        "post-teen pop",
+        "uk pop"
+    ],
+    "MAGIC!": [
+        "reggae fusion"
+    ],
+    "Carly Rae Jepsen": [
+        "canadian pop",
+        "dance pop",
+        "electropop",
+        "pop",
+        "post-teen pop"
+    ],
+    "Powfu": [
+        "lo-fi chill",
+        "sad lo-fi",
+        "sad rap"
+    ],
+    "beabadoobee": [
+        "bedroom pop",
+        "bubblegrunge",
+        "indie pop",
+        "pop"
+    ],
+    "Lauv": [
+        "dance pop",
+        "electropop",
+        "pop"
+    ],
+    "Anne-Marie": [
+        "dance pop",
+        "pop",
+        "pop dance",
+        "post-teen pop",
+        "tropical house",
+        "uk pop"
+    ],
+    "Shawn Mendes": [
+        "canadian pop",
+        "dance pop",
+        "pop",
+        "viral pop"
+    ],
+    "NOTD": [
+        "alt z",
+        "dance pop",
+        "edm",
+        "electro house",
+        "electropop",
+        "pop",
+        "pop dance",
+        "pop edm",
+        "post-teen pop",
+        "tropical house"
+    ],
+    "Boy In Space": [
+        "alt z",
+        "electropop",
+        "pop"
+    ],
+    "Catello": [],
+    "GAMMAL": [
+        "swedish pop"
+    ],
+    "HON": [
+        "swedish pop"
+    ],
+    "King": [
+        "hindi hip hop"
+    ],
+    "Nucleya": [
+        "desi hip hop",
+        "hindi hip hop",
+        "indian edm",
+        "indian indie"
+    ],
+    "Benny Dayal": [
+        "desi pop",
+        "filmi",
+        "modern bollywood"
+    ],
+    "Badshah": [
+        "desi hip hop",
+        "desi pop",
+        "desi trap",
+        "modern bollywood"
+    ],
+    "Ritviz": [
+        "desi hip hop",
+        "desi pop",
+        "hindi indie",
+        "indian edm",
+        "indian indie"
+    ],
+    "Norlie & KKV": [
+        "swedish idol pop",
+        "swedish pop"
+    ],
     "Adon": [
         "new french touch"
     ],
@@ -19,27 +186,15 @@
     "Vargas & Lagola": [
         "swedish pop"
     ],
-    "Ludwig Goransson": [
+    "Ludwig G\u00f6ransson": [
         "nordic soundtrack",
         "orchestral soundtrack",
         "soundtrack"
     ],
     "Astrid S": [
-        "alt z",
         "dance pop",
         "norwegian pop",
         "pop",
-        "tropical house"
-    ],
-    "NOTD": [
-        "alt z",
-        "dance pop",
-        "edm",
-        "electropop",
-        "pop",
-        "pop dance",
-        "pop edm",
-        "post-teen pop",
         "tropical house"
     ],
     "kenzie": [
@@ -72,7 +227,6 @@
     "Michael Hausted": [],
     "Nate VanDeusen": [],
     "Deep Chills": [
-        "deep house",
         "deep tropical house",
         "new french touch",
         "pop dance",
@@ -101,7 +255,8 @@
     "Shoji": [],
     "Nikki Kaelar": [],
     "Julie Bergan": [
-        "norwegian pop"
+        "norwegian pop",
+        "tropical house"
     ],
     "Armaan Malik": [
         "desi pop",
@@ -117,11 +272,6 @@
         "desi pop",
         "filmi",
         "modern bollywood"
-    ],
-    "Lauv": [
-        "dance pop",
-        "electropop",
-        "pop"
     ],
     "Blonde": [
         "dance pop",
@@ -145,6 +295,7 @@
         "tropical house"
     ],
     "X Ambassadors": [
+        "electropop",
         "modern alternative rock",
         "modern rock",
         "pop",
@@ -153,7 +304,9 @@
         "rock",
         "stomp pop"
     ],
-    "Plested": [],
+    "Plested": [
+        "indie anthem-folk"
+    ],
     "Stuart Crichton": [],
     "Dean Lewis": [
         "australian pop",
@@ -168,6 +321,7 @@
         "dance pop",
         "edm",
         "electro house",
+        "house",
         "pop",
         "pop dance",
         "tropical house"
@@ -224,7 +378,9 @@
         "gauze pop",
         "indie pop",
         "indie poptimism",
-        "metropopolis"
+        "metropopolis",
+        "uk pop",
+        "vapor soul"
     ],
     "Brett Young": [
         "contemporary country",
@@ -247,7 +403,6 @@
         "tropical house"
     ],
     "Charli Adams": [
-        "indie pop",
         "nashville singer-songwriter"
     ],
     "vaultboy": [
@@ -271,9 +426,7 @@
     "Luzia de Fatima": [],
     "Stanaj": [],
     "MEDUZA": [
-        "dance pop",
         "edm",
-        "electro house",
         "pop",
         "pop dance",
         "pop house",
@@ -281,7 +434,8 @@
     ],
     "Dermot Kennedy": [
         "folk-pop",
-        "irish pop"
+        "irish pop",
+        "pop"
     ],
     "Seeb": [
         "dance pop",
@@ -375,7 +529,8 @@
         "uk contemporary r&b"
     ],
     "AJR": [
-        "modern rock"
+        "modern rock",
+        "pop rock"
     ],
     "Embody": [
         "deep tropical house",
@@ -398,6 +553,8 @@
         "deep tropical house",
         "edm",
         "electro house",
+        "electropop",
+        "house",
         "pop",
         "pop dance",
         "pop edm",
@@ -438,9 +595,7 @@
         "post-teen pop",
         "social media pop"
     ],
-    "OMI": [
-        "dance pop"
-    ],
+    "OMI": [],
     "Maroon 5": [
         "pop"
     ],
@@ -466,7 +621,8 @@
     "will.i.am": [
         "dance pop",
         "pop",
-        "pop rap"
+        "pop rap",
+        "post-teen pop"
     ],
     "Bebe Rexha": [
         "dance pop",
@@ -505,7 +661,8 @@
     "Justin Caruso": [
         "electropop",
         "pop dance",
-        "pop edm"
+        "pop edm",
+        "tropical house"
     ],
     "Iselin": [
         "norwegian pop"
@@ -513,10 +670,6 @@
     "Gyllene Tider": [
         "classic swedish pop",
         "danspunk",
-        "swedish pop"
-    ],
-    "Norlie & KKV": [
-        "swedish idol pop",
         "swedish pop"
     ],
     "Hov1": [
@@ -556,14 +709,8 @@
         "lds"
     ],
     "Nora Van Elken": [
+        "deep house",
         "new french touch",
-        "tropical house"
-    ],
-    "ILLENIUM": [
-        "edm",
-        "melodic dubstep",
-        "pop",
-        "pop dance",
         "tropical house"
     ],
     "RUNN": [],
@@ -580,6 +727,7 @@
     "Troye Sivan": [
         "australian pop",
         "dance pop",
+        "electropop",
         "pop",
         "viral pop"
     ],
@@ -599,6 +747,7 @@
         "neo mellow"
     ],
     "Benjamin Francis Leftwich": [
+        "acoustic pop",
         "indie folk",
         "stomp and holler",
         "york indie"
@@ -687,6 +836,7 @@
         "urban contemporary"
     ],
     "Pharrell Williams": [
+        "dance pop",
         "hip hop",
         "pop",
         "pop rap"
@@ -704,7 +854,6 @@
         "soul"
     ],
     "Morgan Page": [
-        "dance pop",
         "edm",
         "electro house",
         "pop dance",
@@ -712,7 +861,9 @@
         "progressive house",
         "tropical house"
     ],
-    "VIVID": [],
+    "VIVID": [
+        "visual kei"
+    ],
     "Surf Mesa": [
         "tropical house"
     ],
@@ -734,24 +885,12 @@
         "edm",
         "german dance",
         "pop dance",
-        "pop edm",
         "tropical house"
     ],
     "Aiaya": [],
-    "Dillon Francis": [
-        "brostep",
-        "dance pop",
-        "edm",
-        "electro house",
-        "electronic trap",
-        "electropop",
-        "moombahton",
-        "pop",
-        "pop dance",
-        "slap house",
+    "James Hersey": [
         "tropical house"
     ],
-    "James Hersey": [],
     "Coldplay": [
         "permanent wave",
         "pop"
@@ -770,6 +909,7 @@
         "electro house",
         "pop",
         "pop dance",
+        "progressive electro house",
         "tropical house"
     ],
     "Porter Robinson": [
@@ -784,23 +924,18 @@
         "electro house",
         "electropop",
         "filter house",
+        "future bass",
         "nantes indie",
         "pop dance"
     ],
     "Owl City": [
         "indietronica",
+        "pop",
         "pop rock"
     ],
     "OneRepublic": [
         "piano rock",
         "pop"
-    ],
-    "Carly Rae Jepsen": [
-        "canadian pop",
-        "dance pop",
-        "electropop",
-        "pop",
-        "post-teen pop"
     ],
     "Mike Perry": [
         "dance pop",
@@ -833,7 +968,6 @@
         "malayalam pop"
     ],
     "Sooraj Santhosh": [
-        "filmi",
         "tamil pop",
         "tollywood"
     ],
@@ -874,6 +1008,7 @@
     "Thaikkudam Bridge": [
         "indian indie",
         "indian rock",
+        "malayalam indie",
         "malayalam pop",
         "mollywood"
     ],
@@ -955,7 +1090,8 @@
         "dutch rock"
     ],
     "ALMA": [
-        "dance pop"
+        "dance pop",
+        "electropop"
     ],
     "Digital Farm Animals": [
         "uk dance"
@@ -982,7 +1118,6 @@
         "post-teen pop"
     ],
     "Alex Adair": [
-        "deep groove house",
         "house",
         "tropical house"
     ],
@@ -1006,10 +1141,12 @@
         "uk dance"
     ],
     "Topic": [
+        "covertronica",
         "dance pop",
         "edm",
         "electro house",
         "german dance",
+        "pop",
         "pop dance",
         "pop edm",
         "tropical house"
@@ -1025,7 +1162,8 @@
         "electropop",
         "indie poptimism",
         "pop",
-        "tropical house"
+        "tropical house",
+        "vapor twitch"
     ],
     "Wafia": [
         "australian pop"
@@ -1069,6 +1207,7 @@
         "pop"
     ],
     "John Legend": [
+        "neo mellow",
         "neo soul",
         "pop",
         "pop soul",
@@ -1083,7 +1222,8 @@
         "new french touch"
     ],
     "Moonkids": [
-        "new french touch"
+        "new french touch",
+        "tropical house"
     ],
     "Alex Keeper": [
         "new french touch"
@@ -1100,7 +1240,6 @@
     ],
     "Model Child": [],
     "Rita Ora": [
-        "australian pop",
         "dance pop",
         "edm",
         "electropop",
@@ -1115,7 +1254,6 @@
     ],
     "Lucas & Steve": [
         "dance pop",
-        "deep house",
         "edm",
         "electro house",
         "house",
@@ -1137,7 +1275,8 @@
         "boy band",
         "dance pop",
         "pop",
-        "post-teen pop"
+        "post-teen pop",
+        "teen pop"
     ],
     "Loud Luxury": [
         "dance pop",
@@ -1150,6 +1289,7 @@
     "Vigiland": [
         "dance pop",
         "edm",
+        "electro house",
         "electronic trap",
         "pop dance",
         "pop rap",
@@ -1168,6 +1308,7 @@
     "M\u00d8": [
         "dance pop",
         "danish pop",
+        "edm",
         "electropop",
         "indie poptimism",
         "pop",
@@ -1213,7 +1354,6 @@
         "electropop",
         "pop",
         "pop dance",
-        "pop edm",
         "post-teen pop",
         "tropical house"
     ],
@@ -1224,7 +1364,6 @@
         "electropop",
         "future bass",
         "pop edm",
-        "vapor soul",
         "vapor twitch"
     ],
     "HANA": [
@@ -1234,6 +1373,7 @@
         "pop edm"
     ],
     "Aloe Blacc": [
+        "neo soul",
         "pop soul",
         "r&b"
     ],
@@ -1243,7 +1383,6 @@
         "electro house",
         "electropop",
         "electropowerpop",
-        "indie poptimism",
         "pop",
         "pop dance",
         "pop edm",
@@ -1264,7 +1403,8 @@
         "pop",
         "pop dance",
         "swedish electropop",
-        "swedish synthpop"
+        "swedish synthpop",
+        "tropical house"
     ],
     "Selena Gomez": [
         "dance pop",
@@ -1300,10 +1440,11 @@
         "electro house",
         "nordic house",
         "pop dance",
-        "pop edm",
         "tropical house"
     ],
-    "Raaban": [],
+    "Raaban": [
+        "tropical house"
+    ],
     "Richard Smitt": [],
     "BEAUZ": [
         "pop dance",
@@ -1354,6 +1495,7 @@
     ],
     "Nathan Evans": [],
     "Hot Shade": [
+        "dance pop",
         "edm",
         "pop dance",
         "pop edm",
@@ -1361,12 +1503,14 @@
     ],
     "Chris James": [
         "chill r&b",
+        "electropop",
         "pop"
     ],
     "Alessia Cara": [
         "canadian contemporary r&b",
         "canadian pop",
         "dance pop",
+        "electropop",
         "pop",
         "post-teen pop"
     ],
@@ -1438,13 +1582,8 @@
         "pop",
         "pop dance",
         "pop rap",
+        "post-teen pop",
         "tropical house"
-    ],
-    "Shawn Mendes": [
-        "canadian pop",
-        "dance pop",
-        "pop",
-        "viral pop"
     ],
     "Nadia Ali": [
         "vocal trance"
@@ -1452,7 +1591,6 @@
     "Lost Frequencies": [
         "belgian edm",
         "edm",
-        "electro house",
         "pop",
         "pop dance",
         "tropical house"
@@ -1505,8 +1643,7 @@
         "dutch trance",
         "edm",
         "electro house",
-        "pop dance",
-        "trance"
+        "pop dance"
     ],
     "Olivia Penalva": [],
     "Tinashe": [
@@ -1598,7 +1735,7 @@
     "F\u00c4IS": [
         "dutch pop"
     ],
-    "Afrojack": [
+    "AFROJACK": [
         "big room",
         "dance pop",
         "dutch house",
@@ -1620,7 +1757,6 @@
         "future house",
         "house",
         "pop dance",
-        "pop edm",
         "progressive electro house",
         "progressive house",
         "tropical house"
@@ -1644,6 +1780,7 @@
     ],
     "Alex Aris": [],
     "ROZES": [
+        "electropop",
         "indie poptimism"
     ],
     "Mako": [
@@ -1663,7 +1800,6 @@
         "dance pop",
         "edm",
         "electro house",
-        "indie poptimism",
         "pop",
         "pop dance",
         "pop edm",
@@ -1696,7 +1832,8 @@
         "australian dance",
         "edm",
         "electro house",
-        "progressive electro house"
+        "progressive electro house",
+        "progressive house"
     ],
     "Morgan St. Jean": [
         "alt z",
@@ -1715,7 +1852,8 @@
     "Chris Lane": [
         "contemporary country",
         "country",
-        "country road"
+        "country road",
+        "modern country rock"
     ],
     "Ivy Adara": [
         "alt z",
@@ -1769,7 +1907,6 @@
         "edm",
         "electro house",
         "electropop",
-        "pop",
         "pop dance",
         "pop edm",
         "progressive electro house",
@@ -1827,9 +1964,6 @@
     "Bipolar Sunshine": [
         "gauze pop"
     ],
-    "MAGIC!": [
-        "reggae fusion"
-    ],
     "Clean Bandit": [
         "dance pop",
         "edm",
@@ -1860,6 +1994,7 @@
         "disco house",
         "edm",
         "electro house",
+        "house",
         "pop dance",
         "progressive house",
         "vocal house"
@@ -1881,7 +2016,6 @@
     ],
     "CHVRCHES": [
         "electropop",
-        "indie poptimism",
         "metropopolis",
         "neo-synthpop",
         "shimmer pop"
@@ -1933,6 +2067,7 @@
     "Sia": [
         "australian dance",
         "australian pop",
+        "dance pop",
         "pop"
     ],
     "Calvin Harris": [
@@ -1946,7 +2081,6 @@
     ],
     "Rihanna": [
         "barbadian pop",
-        "dance pop",
         "pop",
         "urban contemporary"
     ],
@@ -1970,18 +2104,9 @@
         "pop",
         "post-teen pop"
     ],
-    "Anne-Marie": [
-        "dance pop",
-        "pop",
-        "pop dance",
-        "post-teen pop",
-        "tropical house",
-        "uk pop"
-    ],
     "The Kid LAROI": [
         "australian hip hop",
-        "pop",
-        "rap"
+        "pop"
     ],
     "Justin Bieber": [
         "canadian pop",
@@ -2017,14 +2142,6 @@
     "RANI": [
         "dutch pop"
     ],
-    "Marshmello": [
-        "brostep",
-        "dance pop",
-        "edm",
-        "pop",
-        "pop dance",
-        "progressive electro house"
-    ],
     "ILIRA": [
         "albanian pop"
     ],
@@ -2043,6 +2160,7 @@
         "deep euro house",
         "deep house",
         "edm",
+        "electro house",
         "german dance",
         "pop",
         "pop dance",
@@ -2091,7 +2209,6 @@
     ],
     "Sam Fischer": [
         "australian pop",
-        "dance pop",
         "pop",
         "uk pop"
     ],
@@ -2114,6 +2231,7 @@
         "dance pop",
         "edm",
         "electro house",
+        "new french touch",
         "pop",
         "pop dance",
         "tropical house"
@@ -2133,7 +2251,8 @@
     ],
     "Nick Waterhouse": [
         "chicago indie",
-        "funk"
+        "funk",
+        "soul"
     ],
     "Janieck": [
         "dutch pop"
@@ -2167,8 +2286,8 @@
         "dance pop",
         "edm",
         "electro house",
+        "pop",
         "pop dance",
-        "pop edm",
         "tropical house"
     ],
     "FRENSHIP": [
@@ -2176,7 +2295,6 @@
         "indie poptimism",
         "la pop",
         "pop dance",
-        "pop edm",
         "tropical house"
     ],
     "Jason Ross": [
@@ -2206,11 +2324,6 @@
         "uk dance"
     ],
     "Gia Koka": [],
-    "Boy In Space": [
-        "alt z",
-        "electropop",
-        "pop"
-    ],
     "CVBZ": [
         "edm",
         "electropop",
@@ -2236,16 +2349,6 @@
         "post-teen pop",
         "tropical house"
     ],
-    "Nina Nesbitt": [
-        "alt z",
-        "dance pop",
-        "electropop",
-        "indie poptimism",
-        "neo-singer-songwriter",
-        "pop",
-        "post-teen pop",
-        "uk pop"
-    ],
     "Bea Miller": [
         "alt z",
         "dance pop",
@@ -2253,11 +2356,11 @@
         "indie poptimism",
         "pop",
         "post-teen pop",
-        "talent show"
+        "talent show",
+        "viral rap"
     ],
     "Virginia To Vegas": [
         "canadian pop",
-        "dance pop",
         "electropop",
         "pop",
         "pop dance",
@@ -2271,7 +2374,6 @@
         "post-teen pop",
         "social media pop"
     ],
-    "Catello": [],
     "Lennon Stella": [
         "alt z",
         "canadian pop",
@@ -2314,6 +2416,7 @@
     "Olly Murs": [
         "dance pop",
         "pop",
+        "pop dance",
         "post-teen pop",
         "talent show",
         "uk pop"
@@ -2331,6 +2434,15 @@
         "brazilian edm",
         "pop nacional"
     ],
+    "Ne-Yo": [
+        "dance pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+    ],
+    "Akon": [
+        "dance pop"
+    ],
     "Sander van Doorn": [
         "dutch trance",
         "edm",
@@ -2346,7 +2458,6 @@
         "dance pop",
         "edm",
         "electro house",
-        "pop",
         "pop dance",
         "pop edm",
         "progressive electro house",
@@ -2362,16 +2473,17 @@
         "chill r&b",
         "gauze pop",
         "indie r&b",
-        "neo soul",
         "r&b",
         "uk contemporary r&b"
     ],
     "KSHMR": [
         "big room",
+        "dance pop",
         "edm",
         "electro house",
         "indian edm",
         "pop dance",
+        "progressive electro house",
         "slap house",
         "tropical house"
     ],
@@ -2405,7 +2517,8 @@
         "soul flow"
     ],
     "Echosmith": [
-        "indie poptimism"
+        "indie poptimism",
+        "pop rock"
     ],
     "Hayley Williams": [
         "art pop",
@@ -2456,7 +2569,7 @@
     "Tritonal": [
         "edm",
         "electro house",
-        "melodic dubstep",
+        "electropop",
         "pop dance",
         "pop edm",
         "progressive electro house",
@@ -2481,6 +2594,7 @@
         "indie poptimism",
         "metropopolis",
         "post-teen pop",
+        "tropical house",
         "uk pop"
     ],
     "Lena Raine": [
@@ -2533,8 +2647,7 @@
     "Miguel": [
         "dance pop",
         "pop",
-        "r&b",
-        "urban contemporary"
+        "r&b"
     ],
     "Young Bombs": [
         "dance pop",
@@ -2553,6 +2666,7 @@
     ],
     "Valerie Broussard": [
         "alt z",
+        "bossbeat",
         "modern alternative pop"
     ],
     "Store P": [
@@ -2568,6 +2682,7 @@
     "Chelsea Cutler": [
         "alt z",
         "electropop",
+        "indie poptimism",
         "pop",
         "tropical house"
     ],
@@ -2584,6 +2699,10 @@
         "gaming edm"
     ],
     "Tariq Pijning": [],
+    "Tom Odell": [
+        "chill pop",
+        "pop"
+    ],
     "Kodaline": [
         "irish pop",
         "pop",
@@ -2602,10 +2721,6 @@
     "Will Heard": [
         "uk contemporary r&b"
     ],
-    "Tom Odell": [
-        "chill pop",
-        "pop"
-    ],
     "Labrinth": [
         "indie poptimism",
         "pop"
@@ -2615,7 +2730,6 @@
     ],
     "Jason Walker": [
         "neo mellow",
-        "pop rock",
         "viral pop"
     ],
     "Oliver Nelson": [
@@ -2650,9 +2764,6 @@
         "pop dance",
         "pop edm"
     ],
-    "Alan Walker": [
-        "electro house"
-    ],
     "The Him": [
         "big room",
         "deep tropical house",
@@ -2660,7 +2771,11 @@
         "electro house",
         "pop dance",
         "pop edm",
+        "progressive electro house",
         "tropical house"
+    ],
+    "Alan Walker": [
+        "electro house"
     ],
     "Jamie N Commons": [
         "modern alternative rock",
@@ -2674,13 +2789,13 @@
     ],
     "Kim Petras": [
         "dance pop",
+        "electropop",
         "pop",
         "post-teen pop",
         "transpop"
     ],
     "Oh Wonder": [
-        "electropop",
-        "indie poptimism"
+        "electropop"
     ],
     "Dreamlab": [],
     "Whitney Houston": [
@@ -2722,6 +2837,7 @@
     "Craig David": [
         "british soul",
         "dance pop",
+        "pop rap",
         "r&b",
         "urban contemporary"
     ],
@@ -2737,6 +2853,7 @@
     "Jus Now": [],
     "Ella Eyre": [
         "dance pop",
+        "post-teen pop",
         "tropical house",
         "uk pop"
     ],
@@ -2754,12 +2871,9 @@
         "edm",
         "house",
         "pop dance",
-        "pop edm",
         "tropical house"
     ],
-    "Dean-E-G": [
-        "deep groove house"
-    ],
+    "Dean-E-G": [],
     "James Arthur": [
         "pop",
         "talent show",
@@ -2767,6 +2881,7 @@
     ],
     "Fedde Le Grand": [
         "dance pop",
+        "deep house",
         "disco house",
         "dutch house",
         "edm",
@@ -2810,6 +2925,7 @@
         "dancefloor dnb",
         "drum and bass",
         "house",
+        "pop dance",
         "uk dance"
     ],
     "John K": [
@@ -2833,10 +2949,18 @@
         "latin pop"
     ],
     "Freshlyground": [
+        "afro soul",
         "afropop",
         "south african pop",
         "south african pop dance"
     ],
+    "Future": [
+        "atl hip hop",
+        "rap",
+        "southern hip hop",
+        "trap"
+    ],
+    "Funk Wav": [],
     "Tom Grennan": [
         "dance pop",
         "tropical house",
@@ -2846,7 +2970,6 @@
         "deep groove house",
         "disco house",
         "edm",
-        "electro house",
         "house",
         "pop dance",
         "tropical house",
@@ -2888,6 +3011,23 @@
     "Eli Brown": [
         "house"
     ],
+    "Dua Lipa": [
+        "dance pop",
+        "pop",
+        "uk pop"
+    ],
+    "Frank Ocean": [
+        "hip hop",
+        "lgbtq+ hip hop",
+        "neo soul"
+    ],
+    "Migos": [
+        "atl hip hop",
+        "hip hop",
+        "pop rap",
+        "rap",
+        "trap"
+    ],
     "Kelis": [
         "dance pop",
         "electropop",
@@ -2919,26 +3059,24 @@
         "southern hip hop",
         "trap"
     ],
-    "Funk Wav": [],
-    "Future": [
-        "atl hip hop",
-        "rap",
-        "southern hip hop",
-        "trap"
-    ],
-    "Khalid": [
-        "pop",
-        "pop r&b"
-    ],
     "Travis Scott": [
         "rap",
         "slap house"
     ],
     "A-Trak": [
         "canadian electronic",
+        "disco house",
         "electro house",
-        "electronic trap",
+        "house",
         "turntablism"
+    ],
+    "Example": [
+        "dance pop",
+        "hip house",
+        "house",
+        "pop dance",
+        "tropical house",
+        "uk dance"
     ],
     "Katy Perry": [
         "dance pop",
@@ -2949,6 +3087,7 @@
         "hip hop",
         "pop",
         "pop rap",
+        "r&b",
         "rap",
         "southern hip hop",
         "trap"
@@ -2965,44 +3104,19 @@
     "Florence Welch": [
         "uk pop"
     ],
-    "Ne-Yo": [
-        "dance pop",
-        "pop",
-        "urban contemporary"
+    "HAIM": [
+        "indie pop",
+        "metropopolis"
     ],
     "Ayah Marar": [
         "jordanian pop"
     ],
-    "Dua Lipa": [
-        "dance pop",
-        "pop",
-        "uk pop"
-    ],
-    "Frank Ocean": [
-        "hip hop",
-        "lgbtq+ hip hop",
-        "neo soul",
-        "pop"
-    ],
-    "Migos": [
-        "atl hip hop",
-        "hip hop",
-        "pop rap",
-        "rap",
-        "trap"
-    ],
-    "Example": [
-        "dance pop",
-        "grime",
-        "hip house",
-        "house",
-        "pop dance",
-        "tropical house",
-        "uk dance"
-    ],
-    "HAIM": [
-        "indie pop",
-        "metropopolis"
+    "Wizkid": [
+        "afro dancehall",
+        "afropop",
+        "azonto",
+        "nigerian hip hop",
+        "nigerian pop"
     ],
     "Ty Dolla $ign": [
         "dance pop",
@@ -3013,19 +3127,12 @@
         "southern hip hop",
         "trap",
         "trap soul",
-        "urban contemporary"
+        "viral rap"
     ],
     "Sabrina Carpenter": [
         "dance pop",
         "pop",
         "post-teen pop"
-    ],
-    "Wizkid": [
-        "afro dancehall",
-        "afropop",
-        "azonto",
-        "nigerian hip hop",
-        "nigerian pop"
     ],
     "hazel": [],
     "Charlotte Haining": [
@@ -3048,6 +3155,10 @@
     "Karlyn": [
         "dutch pop"
     ],
+    "Stephan M": [
+        "funky house"
+    ],
+    "Vanity": [],
     "Dimitri Vangelis & Wyman": [
         "edm",
         "electro house",
@@ -3082,19 +3193,15 @@
         "deep pop edm"
     ],
     "whoisFIYAH": [],
-    "Kastenholt": [],
-    "Dee": [],
-    "Maegan Cottone": [],
-    "Stephan M": [
-        "funky house"
-    ],
-    "Vanity": [],
-    "Cecilia Axeland": [],
     "Mika Zibanejad": [
         "swedish pop"
     ],
     "Forg\u00e9t Mej": [],
     "Filip Jenven": [],
+    "Kastenholt": [],
+    "Dee": [],
+    "Maegan Cottone": [],
+    "Cecilia Axeland": [],
     "Job Kurian": [
         "filmi",
         "malayalam pop",
@@ -3104,7 +3211,6 @@
         "mollywood"
     ],
     "Ramya Nambessan": [
-        "kollywood",
         "mollywood"
     ],
     "Hesham Abdul Wahab": [
@@ -3157,7 +3263,6 @@
         "future house"
     ],
     "Falling In Reverse": [
-        "metalcore",
         "modern rock",
         "rap metal"
     ],
@@ -3185,6 +3290,7 @@
     ],
     "Ship Wrek": [
         "bass house",
+        "deep groove house",
         "edm",
         "electro house"
     ],
@@ -3197,9 +3303,11 @@
         "alternative dance",
         "electro-pop francais",
         "electroclash",
+        "electronica",
         "electropop",
         "escape room",
         "filter house",
+        "neo-synthpop",
         "new rave"
     ],
     "MOTi": [
@@ -3221,17 +3329,6 @@
         "uk pop"
     ],
     "Jackson Wang": [],
-    "Dotan": [
-        "dutch pop",
-        "dutch rock",
-        "folk-pop"
-    ],
-    "Faouzia": [
-        "alt z",
-        "canadian pop",
-        "pop",
-        "post-teen pop"
-    ],
     "Passion Pit": [
         "alternative dance",
         "indie rock",
@@ -3246,8 +3343,22 @@
         "rap",
         "trap"
     ],
-    "Sofia Carson": [],
+    "Sofia Carson": [
+        "pop",
+        "post-teen pop"
+    ],
+    "Dotan": [
+        "dutch pop",
+        "dutch rock",
+        "folk-pop"
+    ],
     "Throttle": [],
+    "Faouzia": [
+        "alt z",
+        "canadian pop",
+        "pop",
+        "post-teen pop"
+    ],
     "Shouse": [
         "aussietronica",
         "edm",
@@ -3257,6 +3368,23 @@
     "KIDDO": [
         "scandipop"
     ],
+    "Lykke Li": [
+        "art pop",
+        "dance pop",
+        "electropop",
+        "pop",
+        "swedish electropop",
+        "swedish indie pop",
+        "swedish pop"
+    ],
+    "Richard Judge": [],
+    "Henri PFR": [
+        "belgian edm",
+        "belgian pop",
+        "new french touch"
+    ],
+    "Jeffrey Jey": [],
+    "Christy McDonald": [],
     "Erika Sirola": [
         "finnish pop"
     ],
@@ -3286,6 +3414,19 @@
         "slap house",
         "tropical house"
     ],
+    "CamelPhat": [
+        "deep tech house",
+        "edm",
+        "house",
+        "progressive house",
+        "tropical house"
+    ],
+    "Elderbrook": [
+        "edm",
+        "house",
+        "new french touch",
+        "tropical house"
+    ],
     "Alligatoah": [
         "german pop"
     ],
@@ -3299,19 +3440,6 @@
     "Francesco Yates": [
         "canadian pop"
     ],
-    "Akon": [
-        "dance pop"
-    ],
-    "Lykke Li": [
-        "art pop",
-        "dance pop",
-        "electropop",
-        "pop",
-        "swedish electropop",
-        "swedish indie pop",
-        "swedish pop"
-    ],
-    "Richard Judge": [],
     "Rhys": [
         "norwegian pop",
         "swedish pop"
@@ -3330,34 +3458,21 @@
     "Graham Candy": [
         "nz pop"
     ],
-    "Henri PFR": [
-        "belgian edm",
-        "belgian pop"
-    ],
-    "Jeffrey Jey": [],
     "HUGEL": [
         "deep house",
-        "edm",
-        "pop dance"
+        "edm"
     ],
-    "Christy McDonald": [],
     "Moby": [
         "downtempo",
         "electronica"
     ],
     "The Void Pacific Choir": [],
-    "CamelPhat": [
-        "deep tech house",
-        "edm",
-        "house",
-        "progressive house"
-    ],
-    "Elderbrook": [
-        "edm",
-        "tropical house"
-    ],
     "Mugeez": [
         "ghanaian pop"
+    ],
+    "Stormzy": [
+        "grime",
+        "uk hip hop"
     ],
     "Elton John": [
         "glam rock",
@@ -3378,6 +3493,10 @@
         "rap",
         "trap"
     ],
+    "Yebba": [
+        "alternative r&b",
+        "pop soul"
+    ],
     "Camila Cabello": [
         "dance pop",
         "pop",
@@ -3386,24 +3505,12 @@
     "Cardi B": [
         "dance pop",
         "pop",
-        "rap"
-    ],
-    "Stormzy": [
-        "grime",
-        "uk hip hop"
-    ],
-    "Ghetts": [
-        "grime",
-        "uk alternative hip hop",
-        "uk hip hop"
-    ],
-    "Yebba": [
-        "pop soul"
+        "rap",
+        "viral rap"
     ],
     "A Boogie Wit da Hoodie": [
         "melodic rap",
-        "rap",
-        "trap"
+        "rap"
     ],
     "Jamie Scott": [
         "uk pop"
@@ -3443,7 +3550,7 @@
         "dutch house",
         "dutch rap pop"
     ],
-    "Natti Natasha": [
+    "NATTI NATASHA": [
         "latin hip hop",
         "latin pop",
         "rap latina",
@@ -3453,10 +3560,39 @@
     "Dimitri Vegas": [
         "belgian edm",
         "edm",
+        "electro house",
         "pop dance"
     ],
     "Like Mike": [
         "belgian edm"
+    ],
+    "Joachim Garraud": [
+        "electro house"
+    ],
+    "JD Davis": [],
+    "Chris Willis": [],
+    "Tocadisco": [
+        "german techno",
+        "tech house"
+    ],
+    "J Balvin": [
+        "reggaeton",
+        "reggaeton colombiano",
+        "urbano latino"
+    ],
+    "Taped Rai": [],
+    "Kelly Rowland": [
+        "atl hip hop",
+        "dance pop",
+        "hip pop",
+        "neo soul",
+        "pop",
+        "pop r&b",
+        "pop rap",
+        "post-teen pop",
+        "r&b",
+        "rap",
+        "urban contemporary"
     ],
     "RAYE": [
         "dance pop",
@@ -3481,7 +3617,9 @@
         "pop dance",
         "progressive electro house"
     ],
-    "MistaJam": [],
+    "MistaJam": [
+        "deep groove house"
+    ],
     "MORTEN": [
         "danish electronic",
         "scandipop"
@@ -3491,55 +3629,8 @@
         "dutch house",
         "dutch rap pop"
     ],
-    "Harrison": [],
-    "Joachim Garraud": [
-        "electro house"
-    ],
-    "JD Davis": [],
-    "Chris Willis": [],
-    "Tocadisco": [
-        "german techno",
-        "tech house"
-    ],
-    "J Balvin": [
-        "reggaeton",
-        "reggaeton colombiano",
-        "urbano latino"
-    ],
-    "Tara Mcdonald": [],
-    "Taped Rai": [],
-    "Nicki Minaj": [
-        "dance pop",
-        "hip pop",
-        "pop",
-        "queens hip hop",
-        "rap"
-    ],
-    "Sonny Wilson": [],
-    "Fred Riester": [],
-    "Jessie J": [
-        "dance pop",
-        "pop",
-        "pop rap",
-        "post-teen pop"
-    ],
-    "Kelly Rowland": [
-        "atl hip hop",
-        "dance pop",
-        "hip pop",
-        "neo soul",
-        "pop",
-        "pop r&b",
-        "pop rap",
-        "post-teen pop",
-        "r&b",
-        "rap",
-        "urban contemporary"
-    ],
-    "Jack Back": [
-        "edm",
-        "electro house",
-        "progressive electro house"
+    "Harrison": [
+        "pop dance"
     ],
     "Master KG": [
         "bolobedu house",
@@ -3549,13 +3640,14 @@
     "Sof\u00eda Reyes": [
         "dance pop",
         "latin pop",
-        "mexican pop"
+        "mexican pop",
+        "reggaeton",
+        "urbano latino"
     ],
     "Abraham Mateo": [
         "latin arena pop",
         "latin pop",
         "latin viral pop",
-        "reggaeton",
         "spanish pop"
     ],
     "De La Ghetto": [
@@ -3575,6 +3667,7 @@
     "Zion & Lennox": [
         "latin hip hop",
         "reggaeton",
+        "reggaeton flow",
         "urbano latino"
     ],
     "Lalo Ebratt": [
@@ -3606,6 +3699,56 @@
         "pop edm",
         "progressive electro house",
         "progressive house"
+    ],
+    "Jack Back": [
+        "edm",
+        "electro house",
+        "progressive electro house"
+    ],
+    "Tara Mcdonald": [],
+    "Chris Brown": [
+        "dance pop",
+        "r&b"
+    ],
+    "Lil Wayne": [
+        "hip hop",
+        "new orleans rap",
+        "pop rap",
+        "rap",
+        "trap"
+    ],
+    "Nicki Minaj": [
+        "dance pop",
+        "hip pop",
+        "pop",
+        "queens hip hop",
+        "rap"
+    ],
+    "Sonny Wilson": [],
+    "Ludacris": [
+        "atl hip hop",
+        "dance pop",
+        "dirty south rap",
+        "hip hop",
+        "old school atlanta hip hop",
+        "pop rap",
+        "rap",
+        "southern hip hop",
+        "trap"
+    ],
+    "Estelle": [
+        "neo soul",
+        "r&b"
+    ],
+    "Fred Riester": [],
+    "Jessie J": [
+        "dance pop",
+        "pop",
+        "pop rap",
+        "post-teen pop"
+    ],
+    "Beardyman": [
+        "beatboxing"
     ],
     "Bruno Mars": [
         "dance pop",
@@ -3649,17 +3792,6 @@
         "ohio hip hop",
         "rap"
     ],
-    "Chris Brown": [
-        "dance pop",
-        "r&b"
-    ],
-    "Lil Wayne": [
-        "hip hop",
-        "new orleans rap",
-        "pop rap",
-        "rap",
-        "trap"
-    ],
     "Saweetie": [
         "cali rap",
         "dance pop",
@@ -3674,35 +3806,8 @@
         "uk dancehall",
         "uk hip hop"
     ],
-    "Ludacris": [
-        "atl hip hop",
-        "dance pop",
-        "dirty south rap",
-        "hip hop",
-        "old school atlanta hip hop",
-        "pop rap",
-        "rap",
-        "southern hip hop",
-        "trap"
-    ],
-    "G-Eazy": [
-        "hip hop",
-        "indie pop rap",
-        "oakland hip hop",
-        "pop",
-        "pop rap",
-        "rap"
-    ],
-    "Mally Mall": [],
-    "Estelle": [
-        "neo soul",
-        "r&b"
-    ],
     "VASSY": [
         "australian dance"
-    ],
-    "Beardyman": [
-        "beatboxing"
     ],
     "Justin Mylo": [
         "edm",
@@ -3739,44 +3844,6 @@
         "swedish pop"
     ],
     "Michel Zitron": [],
-    "Bono": [
-        "hollywood"
-    ],
-    "The Edge": [],
-    "Bleu Clair": [
-        "bass house",
-        "indonesian edm"
-    ],
-    "Ytram": [
-        "dutch edm"
-    ],
-    "RA": [],
-    "Citadelle": [],
-    "Firebeatz": [
-        "dutch edm",
-        "dutch house",
-        "edm",
-        "electro house",
-        "house",
-        "pop dance",
-        "pop edm",
-        "progressive electro house",
-        "progressive house"
-    ],
-    "Clinton Kane": [
-        "alt z",
-        "gen z singer-songwriter",
-        "pop"
-    ],
-    "Julian Jordan": [
-        "dutch edm",
-        "edm",
-        "electro house",
-        "pop dance",
-        "pop edm",
-        "progressive electro house",
-        "progressive house"
-    ],
     "DubVision": [
         "big room",
         "edm",
@@ -3791,18 +3858,59 @@
         "dutch edm",
         "edm",
         "electro house",
+        "house",
         "pop dance",
         "pop edm",
         "progressive electro house",
         "progressive house"
     ],
-    "The Federal Empire": [
-        "bossbeat",
-        "indie poptimism",
-        "modern alternative rock"
-    ],
     "Mike Shinoda": [
         "alternative hip hop"
+    ],
+    "Julian Jordan": [
+        "dutch edm",
+        "edm",
+        "electro house",
+        "pop dance",
+        "pop edm",
+        "progressive electro house",
+        "progressive house"
+    ],
+    "Bono": [
+        "hollywood"
+    ],
+    "The Edge": [],
+    "Bleu Clair": [
+        "bass house",
+        "indonesian edm"
+    ],
+    "Ytram": [
+        "dutch edm"
+    ],
+    "RA": [],
+    "Citadelle": [],
+    "G-Eazy": [
+        "hip hop",
+        "indie pop rap",
+        "oakland hip hop",
+        "pop",
+        "pop rap",
+        "rap"
+    ],
+    "Firebeatz": [
+        "dutch edm",
+        "dutch house",
+        "edm",
+        "electro house",
+        "house",
+        "pop dance",
+        "progressive electro house",
+        "progressive house"
+    ],
+    "Clinton Kane": [
+        "alt z",
+        "gen z singer-songwriter",
+        "pop"
     ],
     "Blinders": [
         "electro house",
@@ -3812,8 +3920,7 @@
     "LOOPERS": [
         "dutch house",
         "electro house",
-        "progressive electro house",
-        "sky room"
+        "progressive electro house"
     ],
     "Third Party": [
         "edm",
@@ -3840,6 +3947,11 @@
         "pop dance",
         "progressive electro house",
         "progressive house"
+    ],
+    "The Federal Empire": [
+        "bossbeat",
+        "indie poptimism",
+        "modern alternative rock"
     ],
     "TV Noise": [
         "dutch edm",
@@ -3873,6 +3985,7 @@
     "Bougenvilla": [
         "edm",
         "electro house",
+        "house",
         "pop edm"
     ],
     "Yasmin Green": [],
@@ -3888,12 +4001,25 @@
     ],
     "Kandaka Moore": [],
     "Nikki Cislyn": [],
+    "Wes Nelson": [],
+    "End of the World": [],
+    "Louisa Johnson": [
+        "uk pop"
+    ],
     "Sharna Bass": [
         "uk contemporary r&b"
+    ],
+    "Luis Fonsi": [
+        "latin pop",
+        "puerto rican pop"
     ],
     "Eliza Shaddad": [],
     "Noonie Bao": [
         "swedish indie pop"
+    ],
+    "Stylo G": [
+        "dancehall",
+        "uk dancehall"
     ],
     "KYLE": [
         "pop",
@@ -3901,6 +4027,14 @@
         "rap",
         "viral rap"
     ],
+    "Big Boi": [
+        "alternative hip hop",
+        "atl hip hop",
+        "dirty south rap",
+        "hip hop",
+        "southern hip hop"
+    ],
+    "Kirsten Joy": [],
     "Bhad Bhabie": [
         "rap",
         "social media pop",
@@ -3912,27 +4046,6 @@
         "ghanaian hip hop",
         "nigerian pop"
     ],
-    "Wes Nelson": [],
-    "End of the World": [],
-    "Louisa Johnson": [
-        "uk pop"
-    ],
-    "Luis Fonsi": [
-        "latin pop",
-        "puerto rican pop"
-    ],
-    "Stylo G": [
-        "dancehall",
-        "uk dancehall"
-    ],
-    "Big Boi": [
-        "alternative hip hop",
-        "atl hip hop",
-        "dirty south rap",
-        "hip hop",
-        "southern hip hop"
-    ],
-    "Kirsten Joy": [],
     "James Bay": [
         "neo mellow",
         "pop",
@@ -4004,7 +4117,6 @@
     "WATT": [
         "modern alternative rock"
     ],
-    "Roy English": [],
     "Deniz Koyu": [
         "edm",
         "electro house",
@@ -4014,6 +4126,7 @@
         "sky room"
     ],
     "Danna Paola": [
+        "dance pop",
         "latin pop",
         "latin viral pop",
         "mexican pop",
@@ -4023,6 +4136,7 @@
     "SUMR CAMP": [
         "bass house"
     ],
+    "Roy English": [],
     "Sirena": [],
     "Miriam Bryant": [
         "swedish idol pop",
@@ -4034,8 +4148,7 @@
         "swedish pop"
     ],
     "Lauren Aquilina": [
-        "neo-singer-songwriter",
-        "viral pop"
+        "neo-singer-songwriter"
     ],
     "Kat Nestel": [],
     "Tom Hangs": [
@@ -4048,23 +4161,14 @@
     "Lexer": [
         "deep euro house",
         "leipzig electronic",
+        "new french touch",
         "tropical house"
     ],
     "Nico Pusch": [
         "deep euro house"
     ],
-    "Me & My Monkey": [],
-    "HEYHEY": [],
     "Dansir": [],
     "Pingpong": [],
-    "Scheinizzl": [],
-    "Chroph": [],
-    "David Lageder": [],
-    "Thomas Lizzara": [
-        "deep euro house",
-        "german house"
-    ],
-    "Steven Coulter": [],
     "Tom Thaler & Basil": [],
     "Faul & Wad": [
         "tropical house"
@@ -4076,6 +4180,15 @@
         "australian electropop",
         "edm"
     ],
+    "Me & My Monkey": [],
+    "HEYHEY": [],
+    "Scheinizzl": [],
+    "Chroph": [],
+    "David Lageder": [],
+    "Thomas Lizzara": [
+        "german house"
+    ],
+    "Steven Coulter": [],
     "Stil & Bense": [
         "deep techno",
         "german house"
@@ -4114,6 +4227,28 @@
     "TheFatRat": [
         "speedrun"
     ],
+    "Miley Cyrus": [
+        "pop"
+    ],
+    "DaBaby": [
+        "north carolina hip hop",
+        "rap",
+        "trap"
+    ],
+    "Bad Bunny": [
+        "reggaeton",
+        "trap latino",
+        "urbano latino"
+    ],
+    "Tainy": [
+        "latin hip hop",
+        "latin pop",
+        "pop reggaeton",
+        "reggaeton",
+        "reggaeton flow",
+        "trap latino",
+        "urbano latino"
+    ],
     "Silk City": [
         "edm"
     ],
@@ -4135,42 +4270,8 @@
         "electropop",
         "hyperpop",
         "indie poptimism",
+        "pop",
         "vapor twitch"
-    ],
-    "Ang\u00e8le": [
-        "belgian pop",
-        "variete francaise"
-    ],
-    "Miley Cyrus": [
-        "dance pop",
-        "pop"
-    ],
-    "JID": [
-        "hip hop",
-        "rap"
-    ],
-    "DaBaby": [
-        "north carolina hip hop",
-        "rap",
-        "trap"
-    ],
-    "Bad Bunny": [
-        "reggaeton",
-        "trap latino",
-        "urbano latino"
-    ],
-    "Tainy": [
-        "latin hip hop",
-        "latin pop",
-        "pop reggaeton",
-        "reggaeton",
-        "reggaeton flow",
-        "trap latino",
-        "urbano latino"
-    ],
-    "BLACKPINK": [
-        "k-pop",
-        "k-pop girl group"
     ],
     "Wale": [
         "gangster rap",
@@ -4181,6 +4282,18 @@
         "southern hip hop",
         "trap",
         "urban contemporary"
+    ],
+    "Ang\u00e8le": [
+        "belgian pop",
+        "variete francaise"
+    ],
+    "JID": [
+        "hip hop",
+        "rap"
+    ],
+    "BLACKPINK": [
+        "k-pop",
+        "k-pop girl group"
     ],
     "KAROL G": [
         "reggaeton",
@@ -4194,10 +4307,6 @@
         "quiet storm",
         "soul"
     ],
-    "The Jackson 5": [
-        "adult standards",
-        "motown"
-    ],
     "Paul McCartney": [
         "album rock",
         "art rock",
@@ -4208,6 +4317,15 @@
         "rock",
         "soft rock"
     ],
+    "The Jackson 5": [
+        "adult standards",
+        "motown"
+    ],
+    "Cleveland Orchestra": [
+        "american orchestra",
+        "orchestra"
+    ],
+    "Rockwell": [],
     "Siedah Garrett": [
         "freestyle"
     ],
@@ -4218,12 +4336,6 @@
         "r&b",
         "urban contemporary"
     ],
-    "Cleveland Orchestra": [
-        "american orchestra",
-        "classical performance",
-        "orchestra"
-    ],
-    "Rockwell": [],
     "Axwell /\\ Ingrosso": [
         "dance pop",
         "edm",
@@ -4244,12 +4356,14 @@
     ],
     "Kid Ink": [
         "dance pop",
+        "hip hop",
         "pop rap",
         "rap",
         "southern hip hop",
         "trap"
     ],
     "Kronno Zomber": [
+        "latin viral pop",
         "latin viral rap",
         "rap anime"
     ],
@@ -4280,7 +4394,7 @@
         "complextro",
         "edm",
         "electro house",
-        "future bass",
+        "filthstep",
         "gaming edm"
     ],
     "Michael Jan": [],
@@ -4324,7 +4438,14 @@
         "social media pop"
     ],
     "Amy Shark": [
-        "australian pop"
+        "australian pop",
+        "australian talent show"
+    ],
+    "BullySongs": [],
+    "Jhen\u00e9 Aiko": [
+        "pop",
+        "r&b",
+        "urban contemporary"
     ],
     "Kelsea Ballerini": [
         "contemporary country",
@@ -4358,25 +4479,6 @@
     "sirenXX": [
         "indie poptimism"
     ],
-    "Winona Oak": [
-        "alt z",
-        "pop",
-        "swedish pop"
-    ],
-    "Charlee": [],
-    "blink-182": [
-        "pop punk",
-        "punk",
-        "rock",
-        "socal pop punk"
-    ],
-    "Waterbed": [],
-    "BullySongs": [],
-    "Jhen\u00e9 Aiko": [
-        "pop",
-        "r&b",
-        "urban contemporary"
-    ],
     "Smallpools": [
         "hopebeat",
         "indie poptimism",
@@ -4394,11 +4496,26 @@
     "Andrew Wyatt": [
         "nyc pop"
     ],
+    "Winona Oak": [
+        "alt z",
+        "pop",
+        "swedish pop"
+    ],
     "Sabrina Claudio": [
         "alternative r&b",
+        "chill r&b",
+        "indie r&b",
         "pop",
         "r&b"
     ],
+    "Charlee": [],
+    "blink-182": [
+        "pop punk",
+        "punk",
+        "rock",
+        "socal pop punk"
+    ],
+    "Waterbed": [],
     "Louane": [
         "francoton",
         "french pop"
@@ -4408,13 +4525,14 @@
     ],
     "flyckt": [],
     "Alpharock": [
-        "edm",
         "electro house",
-        "progressive electro house"
+        "progressive electro house",
+        "sky room"
     ],
     "Funkin Matt": [
         "edm",
-        "electro house"
+        "electro house",
+        "house"
     ],
     "Julien Earle": [],
     "Conro": [
@@ -4433,6 +4551,7 @@
         "vapor twitch"
     ],
     "Gigamesh": [
+        "new french touch",
         "nu disco"
     ],
     "Osrin": [
@@ -4454,6 +4573,7 @@
         "dutch edm"
     ],
     "DRAMA": [
+        "edm",
         "indie soul",
         "vapor soul"
     ],
@@ -4510,6 +4630,7 @@
     ],
     "Era Istrefi": [
         "albanian hip hop",
+        "albanian pop",
         "kosovan pop"
     ],
     "Juan Mag\u00e1n": [
@@ -4520,7 +4641,6 @@
     ],
     "Erick Morillo": [
         "disco house",
-        "tech house",
         "tribal house",
         "vocal house"
     ],
@@ -4560,19 +4680,8 @@
     "Maja Francis": [
         "swedish pop"
     ],
-    "Pink Floyd": [
-        "album rock",
-        "art rock",
-        "classic rock",
-        "progressive rock",
-        "psychedelic rock",
-        "rock",
-        "symphonic rock"
-    ],
     "Yoanna Sky": [],
-    "Epic Mountain": [
-        "video game music"
-    ],
+    "Epic Mountain": [],
     "Stargate": [
         "norwegian pop"
     ],
@@ -4586,13 +4695,11 @@
         "pop dance",
         "pop edm",
         "progressive electro house",
-        "progressive house",
-        "tropical house"
+        "progressive house"
     ],
     "Slaydit": [],
     "Lola Blanc": [
         "alt z",
-        "indie poptimism",
         "modern alternative pop"
     ],
     "Anna Yvette": [
@@ -4605,15 +4712,21 @@
     "Jason Paige": [],
     "Stasia Estep": [],
     "Phaera": [
-        "gaming edm",
         "speedrun"
     ],
     "Maisy Kay": [],
     "Bahari": [
         "alt z",
-        "electropop",
         "la pop"
     ],
+    "Jay Robinson": [
+        "bass house"
+    ],
+    "DJ Hero": [],
+    "aUtOdiDakT": [
+        "electro trash"
+    ],
+    "Toni Tress": [],
     "Kehlani": [
         "dance pop",
         "pop",
@@ -4632,18 +4745,10 @@
         "pink noise",
         "proto-hyperpop"
     ],
-    "Jay Robinson": [
-        "bass house"
-    ],
-    "DJ Hero": [],
     "501": [],
     "DJ Maxsie & Alex Speaker": [
         "complextro"
     ],
-    "aUtOdiDakT": [
-        "electro trash"
-    ],
-    "Toni Tress": [],
     "Lucky Date": [
         "complextro"
     ],
@@ -4661,6 +4766,7 @@
         "australian dance",
         "australian electropop",
         "dance rock",
+        "electropop",
         "indietronica",
         "neo-synthpop"
     ],
@@ -4690,9 +4796,7 @@
         "post-teen pop"
     ],
     "Honka": [],
-    "Bow Anderson": [
-        "uk pop"
-    ],
+    "Bow Anderson": [],
     "EFF": [],
     "Herbert Gr\u00f6nemeyer": [
         "german pop",
@@ -4707,6 +4811,7 @@
     "Marc E. Bassy": [
         "pop",
         "pop rap",
+        "post-teen pop",
         "r&b"
     ],
     "VCATION": [
@@ -4727,13 +4832,6 @@
     "Breaking Beattz": [
         "brazilian edm"
     ],
-    "Damien N-Drix": [],
-    "Thallie Ann Seenyen": [],
-    "Miss Li": [
-        "classic swedish pop",
-        "swedish pop"
-    ],
-    "Bori": [],
     "Hight": [
         "uk dance"
     ],
@@ -4745,20 +4843,27 @@
         "tropical house"
     ],
     "Hearts & Colors": [
-        "neo mellow",
         "post-teen pop",
         "viral pop"
     ],
     "Adam Trigger": [],
     "Tom Ferry": [
-        "covertronica",
+        "deep groove house",
         "pop edm"
     ],
     "POLINA": [],
+    "Damien N-Drix": [],
+    "Thallie Ann Seenyen": [],
+    "Miss Li": [
+        "classic swedish pop",
+        "swedish pop"
+    ],
+    "Bori": [],
     "Klingande": [
         "deep house",
         "deep tropical house",
         "edm",
+        "new french touch",
         "pop dance",
         "tropical house"
     ],
@@ -4789,9 +4894,7 @@
     "Greg Holden": [
         "british singer-songwriter"
     ],
-    "BUNT.": [
-        "tropical house"
-    ],
+    "BUNT.": [],
     "She Keeps Bees": [
         "brooklyn indie"
     ],
@@ -4800,7 +4903,6 @@
         "moldovan pop",
         "pop dance",
         "progressive house",
-        "progressive trance",
         "trance",
         "uplifting trance"
     ],
@@ -4835,6 +4937,7 @@
         "scandipop"
     ],
     "Ookay": [
+        "bass trap",
         "dubstep",
         "edm",
         "electro house",
@@ -4885,6 +4988,8 @@
     ],
     "AN3M": [],
     "Hoang": [
+        "melodic dubstep",
+        "pop dance",
         "pop edm"
     ],
     "Nevve": [],
@@ -4919,7 +5024,6 @@
     ],
     "Niall Horan": [
         "dance pop",
-        "neo mellow",
         "pop",
         "post-teen pop"
     ],
@@ -5016,7 +5120,6 @@
     "Marvin Gaye": [
         "classic soul",
         "funk",
-        "indie r&b",
         "motown",
         "northern soul",
         "quiet storm",
@@ -5049,9 +5152,7 @@
     "Roman Salzger": [],
     "Greg Cerrone": [],
     "The Good Guys": [],
-    "Tesz Millan": [
-        "progressive electro house"
-    ],
+    "Tesz Millan": [],
     "Tim Berg": [
         "edm",
         "pop dance",
@@ -5112,6 +5213,12 @@
         "chicago rap",
         "melodic rap"
     ],
+    "Noah Cyrus": [
+        "pop"
+    ],
+    "Juliander": [
+        "swedish pop"
+    ],
     "Gavin James": [
         "irish pop",
         "neo mellow"
@@ -5120,12 +5227,6 @@
         "gaming edm",
         "nordic house",
         "pop dance"
-    ],
-    "Noah Cyrus": [
-        "pop"
-    ],
-    "Juliander": [
-        "swedish pop"
     ],
     "Ruben": [
         "norwegian pop",
@@ -5154,12 +5255,12 @@
         "pixel"
     ],
     "Laura Shigihara": [],
+    "Miss Buttons": [],
     "Henry Green": [
         "indie soul",
         "vapor soul"
     ],
     "Andrew Jackson": [],
-    "Miss Buttons": [],
     "Seinabo Sey": [
         "swedish electropop",
         "swedish pop",
@@ -5188,7 +5289,8 @@
         "edm",
         "electro house",
         "pop dance",
-        "progressive electro house"
+        "progressive electro house",
+        "progressive house"
     ],
     "Marnik": [],
     "Tzar": [],
@@ -5229,8 +5331,7 @@
     "Georgi Kay": [
         "australian dance",
         "indie poptimism",
-        "perth indie",
-        "vapor soul"
+        "perth indie"
     ],
     "Wiz Khalifa": [
         "dance pop",
@@ -5246,6 +5347,7 @@
     ],
     "Kevin Antunes": [],
     "Lemaitre": [
+        "alternative dance",
         "norwegian pop"
     ],
     "Halifa Kiz": [],
@@ -5285,7 +5387,6 @@
         "pop edm"
     ],
     "SMACK": [
-        "covertronica",
         "electro house",
         "lithuanian edm"
     ],
@@ -5334,8 +5435,7 @@
     "Laura V": [],
     "Rhythm Masters": [],
     "MYNC": [
-        "australian dance",
-        "funky tech house"
+        "australian dance"
     ],
     "Dim Chris": [],
     "AlunaGeorge": [
@@ -5344,12 +5444,11 @@
         "tropical house"
     ],
     "Samuele Sartini": [
+        "funky house",
         "funky tech house"
     ],
     "Bimbo Jones": [],
-    "Tristan Garner": [
-        "progressive electro house"
-    ],
+    "Tristan Garner": [],
     "Agnes": [
         "dance pop",
         "electropop",
@@ -5360,21 +5459,6 @@
     ],
     "Frank Sanders": [],
     "Matthew Humphrey": [],
-    "Addal": [],
-    "Kid": [],
-    "Tundran": [
-        "indie poptimism"
-    ],
-    "TOKIMA TOKIO": [],
-    "Ashley Wallbridge": [
-        "pop dance",
-        "progressive house",
-        "progressive trance",
-        "trance",
-        "uplifting trance"
-    ],
-    "Adans": [],
-    "Bent Collective": [],
     "Niles Hollowell-Dhar": [],
     "iSHi": [
         "swedish pop"
@@ -5383,11 +5467,16 @@
     "Stephan Leicher": [],
     "Astma": [],
     "Rocwell": [],
+    "Addal": [],
     "Merk & Kremont": [
         "electro house"
     ],
     "Mikah Freeman": [],
     "Vance Musgrove": [],
+    "Kid": [],
+    "Tundran": [
+        "indie poptimism"
+    ],
     "Ed Butler": [],
     "Robbie Lamond": [],
     "Fabich": [
@@ -5410,13 +5499,23 @@
         "ethnotronica",
         "organic house"
     ],
+    "TOKIMA TOKIO": [],
     "Didrick": [
         "gaming edm"
     ],
     "Jens Siverstedt": [],
+    "Ashley Wallbridge": [
+        "pop dance",
+        "progressive house",
+        "progressive trance",
+        "trance",
+        "uplifting trance"
+    ],
+    "Adans": [],
     "Autograf": [
         "deep tropical house",
         "edm",
+        "electro house",
         "electropop",
         "house",
         "indie poptimism",
@@ -5426,44 +5525,20 @@
         "vapor soul",
         "vapor twitch"
     ],
+    "Bent Collective": [],
+    "Sebastien Bennett": [],
     "MishCatt": [
         "indie tico",
         "pop costarricense"
     ],
-    "Mic Newman": [
-        "minimal tech house"
-    ],
-    "Digital Lab": [],
-    "JADED": [
-        "deep groove house",
-        "disco house",
-        "house",
-        "uk dance"
-    ],
-    "Dexter": [],
-    "Eric G": [
-        "organic ambient"
-    ],
-    "The Noise": [],
-    "Sebastien Bennett": [],
-    "Laurent Simeca": [
-        "funky house",
-        "funky tech house"
-    ],
-    "Angger Dimas": [
-        "indonesian edm"
-    ],
-    "Whelan & Di Scala": [],
     "Grant Nelson": [
         "soulful house",
         "uk garage",
         "vocal house"
     ],
     "Jeremy Carr": [],
-    "Thomas Pentz": [],
-    "Abraham Laguna": [],
-    "Wailin'": [
-        "burmese pop"
+    "Mic Newman": [
+        "minimal tech house"
     ],
     "DJ Licious": [
         "belgian edm"
@@ -5477,13 +5552,27 @@
         "pop edm",
         "tropical house"
     ],
-    "Jon Hanlon": [],
-    "John De Mark": [
-        "funky tech house"
+    "Digital Lab": [],
+    "JADED": [
+        "deep groove house",
+        "disco house",
+        "house",
+        "uk dance"
+    ],
+    "Dexter": [],
+    "Eric G": [
+        "organic ambient"
     ],
     "Blacktron": [],
+    "The Noise": [],
+    "Laurent Simeca": [
+        "funky house",
+        "funky tech house"
+    ],
+    "Angger Dimas": [
+        "indonesian edm"
+    ],
     "Booty Callers": [],
-    "James Theaker": [],
     "Kenny Hayes": [],
     "LMC": [
         "bouncy house",
@@ -5494,6 +5583,16 @@
         "jump up",
         "liquid funk"
     ],
+    "Whelan & Di Scala": [],
+    "Thomas Pentz": [],
+    "Abraham Laguna": [],
+    "Wailin'": [
+        "burmese pop"
+    ],
+    "Jon Hanlon": [],
+    "John De Mark": [
+        "funky tech house"
+    ],
     "Tom Geiss": [
         "funky tech house"
     ],
@@ -5501,15 +5600,38 @@
         "progressive electro house"
     ],
     "Johan Wedel": [],
+    "James Theaker": [],
     "Leona Lewis": [
         "british soul",
         "dance pop",
         "europop",
         "pop",
         "post-teen pop",
-        "talent show",
-        "urban contemporary"
+        "talent show"
     ],
+    "Green & Falkner": [],
+    "Richard Billis": [],
+    "Vandalism": [
+        "australian dance"
+    ],
+    "Alexander Sl\u00f6k Adstedt": [],
+    "John Course": [],
+    "mrTimothy": [],
+    "Alex Gaudino": [
+        "disco house",
+        "electro house",
+        "vocal house"
+    ],
+    "Jason Rooney": [],
+    "Automann": [],
+    "Avon Stringer": [
+        "australian house",
+        "deep groove house"
+    ],
+    "Two Fresh": [],
+    "Sneaker Fox": [],
+    "Denzel Park": [],
+    "Holdbakk": [],
     "Jovicii": [],
     "Andy P": [],
     "John Dahlb\u00e4ck": [
@@ -5523,11 +5645,9 @@
         "swedish house",
         "tech house"
     ],
-    "Green & Falkner": [],
-    "Richard Billis": [],
-    "Vandalism": [
-        "australian dance"
-    ],
+    "Rene Pais": [],
+    "Mark Brown": [],
+    "Richard Searle": [],
     "CAZZETTE": [
         "complextro",
         "dance pop",
@@ -5541,37 +5661,16 @@
     ],
     "Sebastian Furrer": [],
     "Alexander Bj\u00f6rklund": [],
-    "Alexander Sl\u00f6k Adstedt": [],
-    "John Course": [],
-    "mrTimothy": [],
-    "Alex Gaudino": [
-        "disco house",
-        "electro house",
-        "vocal house"
-    ],
-    "Jason Rooney": [],
-    "Rene Pais": [],
-    "Midnite Sleaze": [],
-    "Automann": [],
-    "Avon Stringer": [
-        "australian house",
-        "deep groove house"
-    ],
-    "Two Fresh": [],
-    "Sneaker Fox": [],
-    "Michael Kaye": [],
-    "Dan Castro": [],
-    "Denzel Park": [],
-    "Holdbakk": [],
-    "Mark Brown": [],
-    "Richard Searle": [],
     "Maurizio Colella": [],
+    "Midnite Sleaze": [],
     "Julian Leker & Alex Saja": [],
     "Christian Luke": [
         "australian dance"
     ],
     "Cahill": [],
     "Sidelmann": [],
+    "Michael Kaye": [],
+    "Dan Castro": [],
     "A-Lab": [],
     "Delta Heavy": [
         "brostep",
@@ -5579,13 +5678,13 @@
         "edm",
         "electro house"
     ],
-    "Bobby Vena": [],
     "Sgt Slick": [],
     "Adrian Lux": [
         "edm",
         "progressive electro house"
     ],
     "Flores": [],
+    "Bobby Vena": [],
     "Mysto": [],
     "Pizzi": []
 }
