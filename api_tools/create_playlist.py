@@ -4,7 +4,7 @@ import os
 from spotipy.oauth2 import SpotifyOAuth
 
 scope = "user-library-read,playlist-modify-private,playlist-modify-public,user-library-modify"
-playlust_id = "6Zx9R6lIwxcFrG7LvkbCOO"
+playlust_id = "1g88SckfCTlzxmI9ys4SP7"
 sp = spotipy.Spotify(
     auth_manager=SpotifyOAuth(
         scope=scope,
@@ -13,10 +13,13 @@ sp = spotipy.Spotify(
 
 song_ids = []
 
-with open("json/sad_songs.json", "r") as f:
+with open("json/happy_songs.json", "r") as f:
     data = json.load(f)
     genres = {
-        k: v for k, v in sorted(data.items(), key=lambda item: item[1]["valence"])
+        k: v
+        for k, v in sorted(
+            data.items(), key=lambda item: item[1]["danceability"], reverse=True
+        )
     }
     i = 0
     with open("json/song_list.json", "r") as songs:
