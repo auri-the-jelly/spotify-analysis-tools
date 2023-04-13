@@ -11,12 +11,15 @@ if not (json_file or x_val or y_val):
     x_val = input("X value: ")
     y_val = input("Y value: ")
 
+threshold = input("Threshold: ")
+threshold = threshold if threshold else 4
+
 f = open(f"json/{json_file}.json", "r")
 data = json.load(f)
 
 compress = "y"
 
-data = {key: val for key, val in data.items() if val > 4}
+data = {key: val for key, val in data.items() if val > threshold}
 
 data_dict = {
     x_val: data.keys(),

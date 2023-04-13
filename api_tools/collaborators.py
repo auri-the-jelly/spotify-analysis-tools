@@ -44,7 +44,7 @@ for album in artist_albums["items"]:
         for track in album_obj["tracks"]["items"]:
             for artist in track["artists"]:
                 if artist["name"] != artist_name:
-                    if artist["name"] in collaborators.keys():
+                    if artist["name"] in collaborators[artist_name].keys():
                         collaborators[artist_name][artist["name"]] += 1
                     else:
                         collaborators[artist_name][artist["name"]] = 1

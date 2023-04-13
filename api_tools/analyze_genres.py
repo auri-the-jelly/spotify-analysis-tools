@@ -51,7 +51,7 @@ al_genres = {
 }
 for genre, num in genres.items():
     print(f"{genre}: {num}")
-with open("json/a_genre_list.json", "w") as json_file:
+with open("json/genre_list.json", "w") as json_file:
     json.dump(genres, json_file, indent=4)
 with open("json/artist_genre.json", "w") as artist_genre:
     json.dump(artists, artist_genre, indent=4)

@@ -3,15 +3,9 @@ import os
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-SPOT_ID = os.environ["SPOT_ID"]
-SPOT_SEC = os.environ["SPOT_SEC"]
-
-scope = "user-library-read"
+scope = "user-library-read,user-top-read"
 sp = spotipy.Spotify(
     auth_manager=SpotifyOAuth(
-        client_id=SPOT_ID,
-        client_secret=SPOT_SEC,
-        redirect_uri="https://localhost:8080",
         scope=scope,
     )
 )
